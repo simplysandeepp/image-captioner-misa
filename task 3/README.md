@@ -4,14 +4,6 @@ Welcome to **Image Captioning using BLIP** — an AI project that turns images i
 
 ---
 
-## 🌄 IMAGE CAPTION GENERATOR - Task 3 
-
-**👨‍💻 Personal Project by:** *Sandeep Prajapati*  
-**🏢 Company:** *CodSoft*
-**🔬 Specialization:** *Artificial Intelligence*
-
----
-
 ## ✨ About This Project  
 
 This project generates **natural language captions** from images using **Salesforce's BLIP (Bootstrapped Language-Image Pretraining)** model.  
