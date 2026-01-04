@@ -5,13 +5,6 @@ Welcome to **MISA (My Intelligent Smart Chatbot)** — your personal chatbot and
 
 ---
 
-## 🌡️ CHATBOT WITH RULE-BASED RESPONSES - Task 01  
-
-**👨‍💻 Internship Project by:** *Sandeep Prajapati*  
-**🏢 Company:** *CodSoft*
-
----
-
 ## ✨ About This Project  
 
 I started by building a basic **Command-Line Chatbot** as part of a CodSoft task.  
