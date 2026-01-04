@@ -1,13 +1,6 @@
 # Tic-Tac-Toe AI Game
 
-Welcome to the **Tic-Tac-Toe AI** project!  
-
----
-
-##  Tic-Tac-Toe AI 🎯 - Task 02  
-
-**👨‍💻 Internship Project by:** *Sandeep Prajapati*  
-**🏢 Company:** *CodSoft*
+Welcome to the **Tic-Tac-Toe AI** project! 
 
 ---
 
